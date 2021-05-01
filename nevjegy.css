@@ -15,7 +15,7 @@ body {
   align-items: center;
   height: 100vh;
   justify-content: center;
-  background: url('assets/hatterkepmalta.jpg') no-repeat center center fixed;
+  background: url('assets/hatterkepmalta.png') no-repeat center center fixed;
   background-size: cover;
 }
 
